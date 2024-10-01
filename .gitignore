@@ -1,0 +1,12 @@
+AppData/
+.android/
+.appium/
+.cache/
+.config/
+.docker/
+.eclipse/
+.gradle/
+.m2/
+.vscode/
+node_modules/
+*.log
